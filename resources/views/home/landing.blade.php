@@ -614,7 +614,7 @@
                             <a class="logo" href="#">
                                 <img src="assets/images/logo.png" alt="logo">
                             </a>
-                            <p class="text">&#169; 2021 - KELOMPOK 5</p>
+                            <p class="text">&#169; 2021 - KELAS XI TKJ 1 ( KELOMPOK 5 )</p>
                             <ul class="social">
                                 <li><a href="https://www.instagram.com/kominfo_tulungagung/"><i class="lni-instagram-filled"></i></a></li>
                             </ul>
