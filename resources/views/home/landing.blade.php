@@ -626,7 +626,7 @@
                     <div class="col-lg-12">
                         <div class="copyright d-sm-flex justify-content-between">
                             <div class="copyright-content">
-                                <p class="text">Dibuat dengan sepenuh <i class="fas fa-heart text-danger"></i> oleh para relawan; <a href="https://instagram.com/">sss</a></p>
+                                <p class="text">Dibuat dengan sepenuh <i class="fas fa-heart text-danger"></i> oleh para relawan; <a href="https://instagram.com/">-</a></p>
                             </div> <!-- copyright content -->
                         </div> <!-- copyright -->
                     </div>
