@@ -602,7 +602,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="subscribe-content mt-45">
-                            <h2 class="subscribe-title">Ikuti Terus Perkembangan Covid-19 di<span>127.0.0.1</span></h2>
+                            <h2 class="subscribe-title">Ikuti Terus Perkembangan Covid-19</h2>
                         </div>
                     </div>
                 </div> <!-- row -->
@@ -614,7 +614,7 @@
                             <a class="logo" href="#">
                                 <img src="assets/images/logo.png" alt="logo">
                             </a>
-                            <p class="text">&#169; 2021 - KELAS XI TKJ 1 ( KELOMPOK 5 )</p>
+                            <p class="text">&#169; 2021 - KELAS XI TKJ 1 (KELOMPOK 5) PKK</p>
                             <ul class="social">
                                 <li><a href="https://www.instagram.com/kominfo_tulungagung/"><i class="lni-instagram-filled"></i></a></li>
                             </ul>
